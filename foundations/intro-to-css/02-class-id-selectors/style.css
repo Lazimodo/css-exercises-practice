@@ -1,0 +1,18 @@
+/* styles */
+.odds {
+    background-color: rgb(255,176,156);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#number-two {
+    color: blue;
+    font-size: 36px;
+}
+
+.but-cooler {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: rgb(180,255,180);
+}
